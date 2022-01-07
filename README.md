@@ -1,9 +1,11 @@
 # Fake-or-Real-News-NLP
 
 Introduction :
+
 In this project, we are working on a dataset that consists of text about the News . Our observation is a Fake or Real News Building NLP model which is unsupervised learning that focuses on finding meaningful topics on News. </br>
 
 Data Description : </br>
+
 Columns : 5   </br>
 id: unique id for a news article  </br>
 title: the title of a news article  </br>
@@ -21,5 +23,7 @@ Matplotibe </br>
 NLTK </br>
 re </br>
 scipy  </br>
+
 Team members :  </br>
+
 Rana Alzahrani | Shahad Alomayrah
